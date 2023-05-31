@@ -1,4 +1,4 @@
-### Hi, 👋 I currently work at Intel with cloud technologies!
+### Hi, 👋 I have open source contributions related to cloud technologies!
 - I was a co-codeowner of two contrib extensions and have open source contributions in the [Envoy project](https://github.com/envoyproxy/envoy) ([also Intel fork](https://github.com/intel/envoy)).
 - I have open source contributions in the [Node feature discovery for Kubernetes project](https://github.com/kubernetes-sigs/node-feature-discovery).
 - I have open source contributions in the [Istio tools project](https://github.com/istio/tools).
