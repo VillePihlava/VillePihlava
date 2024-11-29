@@ -11,6 +11,7 @@
 - [Digitransit UI ("Reittiopas.fi")](https://github.com/HSLdevcom/digitransit-ui)
 - [OpenTripPlanner data container](https://github.com/HSLdevcom/OpenTripPlanner-data-container)
 - [OneBusAway GTFS library](https://github.com/OneBusAway/onebusaway-gtfs-modules)
+- [Digitransit GraphiQL deployment](https://github.com/HSLdevcom/graphiql-deployment)
 <!--
 **VillePihlava/VillePihlava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
